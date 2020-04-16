@@ -86,6 +86,7 @@ class VaspCalcDb(CalcDb):
         chgcar = None
         eigenvals = None
         proj_eigenvals = None
+        ddddd
         aeccar0 = None
         write_aeccar = False
 
